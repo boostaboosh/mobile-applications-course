@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferencesAndFilesLab4</string>
+    <string name="writeToSharedPreferencesButtonText">write to shared preferences</string>
+    <string name="writeToFileButtonText">write to file</string>
+    <string name="outputTextViewText">output text</string>
+    <string name="inputTextField">input text field</string>
+    <string name="outputTextField">output text</string>
+    <string name="readFromFileButtonText">read from file for output text</string>
+</resources>

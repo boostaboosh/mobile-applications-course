@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidIntentsLab3</string>
+    <string name="intentLabel">This activity starts an intent to start HelloActivity.</string>
+    <string name="startIntentButton">start explicit intent</string>
+    <string name="startCurrencyConverterButton">start currency converter</string>
+    <string name="currencyConverterLabel">The following button start the currency converter application</string>
+</resources>

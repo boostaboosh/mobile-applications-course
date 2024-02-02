@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyLab2</string>
+    <string name="poundLabel">Pounds</string>
+    <string name="euroLabel">Euros</string>
+    <string name="dollarLabel">Dollars</string>
+    <string name="clearLabel">Clear</string>
+    <string name="convertLabel">Convert</string>
+</resources>

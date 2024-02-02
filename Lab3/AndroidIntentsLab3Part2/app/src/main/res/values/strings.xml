@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidIntentsLab3Part2</string>
+    <string name="explicitIntentInternalActivity"><![CDATA[explicit intent / app internal activity (multiply 2 & 3)]]></string>
+    <string name="explicitIntentExternalActivity"><![CDATA[explicit intent / app external activity (add 4 & 5)]]></string>
+    <string name="implicitIntentExternalActivity"><![CDATA[implicit intent / external activity (add 5 & 6)]]></string>
+    <string name="outputText">no</string>
+    <string name="externalIntentButtonText">explicit intent / app external activity (add 4 and 5)</string>
+</resources>
